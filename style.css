@@ -133,7 +133,7 @@ nav .menu a {
 
   .menu {
     position: absolute;
-    background-color: red;
+    background-color: #c8d366;
     width: 100%;
     top: 100%;
     z-index: 99;
